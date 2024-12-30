@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohomz" alt="sohomz" /></a> </p>
 
-- 🔭 I’m currently working on [Food ordering app mock]([https://github.com/Sohomz/Join-us](https://github.com/Sohomz/ReactJS_Learning/tree/main/11_NR_Mock_Web)
+- 🔭 I’m currently working on [Food ordering app mock](https://github.com/Sohomz/ReactJS_Learning/tree/main/11_NR_Mock_Web)
 
 - 🌱 I’m currently learning **HTML, Tailwind CSS, React JS, MYSQL, .Net Core**
 
