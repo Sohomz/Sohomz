@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDljYnc4d2JhbmtwYzhodm8xNHRsZHI2ZnRjYmZ0M2xzOGR1N2NrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Gnbm29r7ftUA/giphy.webp></h3>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height="40" width="40">
 
