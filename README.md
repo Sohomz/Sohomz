@@ -11,13 +11,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohomz" alt="sohomz" /></a> </p>
 
 
-- 🔭 I’m currently working on [Food ordering app mock](https://github.com/Sohomz/ReactJS_Learning/tree/main/11_NR_Mock_Web)
+- 🔭 I’m currently working on [Youtube_dummy](https://github.com/Sohomz/shm-youtube)
 
 - 🌱 I’m currently learning **HTML, Tailwind CSS, React JS, MYSQL, .Net Core**
 
 - 👯 I’m looking to collaborate on **React JS projects and self learning**
 
-- 💬 Ask me about **HTML, C#, VBScript**
+- 💬 Ask me about **HTML, C#, VBScript, .Net core, JS, React JS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sohomdas99/**
 
