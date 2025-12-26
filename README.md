@@ -6,8 +6,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height="40" width="40">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohomz&label=Profile%20views&color=0e75b6&style=flat" alt="sohomz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohomz" alt="sohomz" /></a> </p>
 
 
